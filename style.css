@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  #hoverText {
+    margin-top: 20px;
+  }
+  
+  .gallery img {
+    width: 300px;
+    height: auto;
+  }
+  
+  .tabButton {
+    margin: 5px;
+  }
+  
+  .tabContent {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  /* Bonus animations */
+  #magicButton {
+    transition: all 0.3s ease;
+  }
+  
